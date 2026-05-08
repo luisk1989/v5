@@ -1,5 +1,6 @@
 {
-  "name": "Copy of Sistema DIM ZFSANTANDER v5",
+  "name": "Copy of Sistema DIM ZFSANTANDER v6",
   "description": "Aplicación avanzada para la extracción de información estructurada de formularios DIM mediante IA.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }

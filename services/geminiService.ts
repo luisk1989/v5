@@ -23,7 +23,7 @@ export async function extractDataFromDocument(
   userInstructions: string
 ): Promise<ExtractionResult> {
   const ai = getAI();
-  const model = "gemini-3.1-pro-preview";
+  const model = "gemini-2.5-flash";
 
   const prompt = `
     Analiza este documento PDF/Imagen que contiene una o varias declaraciones de importación (DIM/Formularios).
